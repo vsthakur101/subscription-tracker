@@ -59,3 +59,8 @@ typings/
 .env.*.local
 # next.js build output
 .next
+
+# Package files
+package-lock.json
+yarn.lock
+.DS_Store
